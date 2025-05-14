@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.36.252 (patches: 5.18.0)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/KaseToatz1337/rvx-builder/releases/download/5/spotify-revanced-magisk-v9.0.36.252-all.zip",
+  "version": "v9.0.44.471 (patches: 5.23.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/KaseToatz1337/rvx-builder/releases/download/8/spotify-revanced-magisk-v9.0.44.471-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/KaseToatz1337/rvx-builder/update/build.md"
 }
